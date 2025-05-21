@@ -1,0 +1,16 @@
+Our bank offers savings accounts, credit cards, and personal loans.
+
+Savings Accounts:
+- Earn 1.5% interest per annum.
+- Minimum maintaining balance is $500.
+- Withdrawals are limited to 3 per month.
+
+Credit Cards:
+- Monthly payments are due every 25th.
+- A $35 fee applies for late payments.
+- Cashback of 1% on groceries and 2% on fuel.
+
+Personal Loans:
+- Available from $5,000 to $50,000.
+- Repayment terms range from 1 to 5 years.
+- Interest rate is fixed at 6.5% annually.
